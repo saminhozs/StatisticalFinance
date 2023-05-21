@@ -25,9 +25,9 @@ I have leveraged machine learning and deep learning algorithms to analyze financ
 Please note that the above list is not exhaustive, and I continuously strive to expand my knowledge and expertise in quantitative finance by exploring new methodologies and incorporating the latest advancements in machine learning and deep learning.
 
 ## Contact Me
-I am open to collaboration, internship opportunities, and discussions related to quantitative finance and machine learning. If you have any inquiries, feedback, or would like to connect, please don't hesitate to reach out to me. You can contact me via email at [your_email@example.com].
+I am open to collaboration, internship opportunities, and discussions related to quantitative finance and machine learning. If you have any inquiries, feedback, or would like to connect, please don't hesitate to reach out to me. You can contact me via email at samy@capecapital.com.
 
 Thank you for visiting my Quantitative Finance Portfolio. I hope you find my projects insightful and informative!
 
 Best regards,
-[Your Name]
+Samy Zerrouki
