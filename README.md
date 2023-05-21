@@ -13,10 +13,16 @@ I have a keen interest in leveraging machine learning algorithms and techniques 
 ## Repository Overview
 In this repository, you will find a collection of my personal projects related to quantitative finance. Each project demonstrates my ability to apply various quantitative and analytical techniques to real-world financial problems. The projects cover a wide range of topics, including:
 
-### Portfolio Optimization: I have implemented and experimented with different portfolio optimization strategies to achieve optimal risk-return trade-offs. These strategies include mean-variance optimization, risk parity, and factor-based models.
-### Asset Pricing Models: I have explored and implemented well-known asset pricing models, such as the Capital Asset Pricing Model (CAPM), Arbitrage Pricing Theory (APT), and multifactor models.
-### Risk Management: I have developed models and methodologies to quantify and manage various types of financial risks, including market risk, credit risk, and liquidity risk.
-### Algorithmic Trading: I have designed and implemented trading algorithms using quantitative techniques, such as trend-following strategies, mean-reversion strategies, and statistical arbitrage.
+#### Portfolio Optimization: 
+I have implemented and experimented with different portfolio optimization strategies to achieve optimal risk-return trade-offs. These strategies include mean-variance optimization, risk parity, and factor-based models.
+#### Risk Management: 
+I have developed models and methodologies to quantify and manage various types of financial risks, including market risk, credit risk, and liquidity risk.
+#### Algorithmic Trading: 
+I have designed and implemented trading algorithms using quantitative techniques, such as trend-following strategies, mean-reversion strategies, and statistical arbitrage.
+#### Machine Learning and Deep Learning: 
+I have leveraged machine learning and deep learning algorithms to analyze financial data, build predictive models, and uncover valuable insights. This includes applications of regression, classification, time series forecasting, and anomaly detection to finance-related datasets.
+
+Please note that the above list is not exhaustive, and I continuously strive to expand my knowledge and expertise in quantitative finance by exploring new methodologies and incorporating the latest advancements in machine learning and deep learning.
 
 ## Contact Me
 I am open to collaboration, internship opportunities, and discussions related to quantitative finance and machine learning. If you have any inquiries, feedback, or would like to connect, please don't hesitate to reach out to me. You can contact me via email at [your_email@example.com].
